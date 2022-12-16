@@ -1,0 +1,17 @@
+C:\Completo-Repositorio\completoOne\AccesoDatos\bin\Debug\net6.0\AccesoDatos.deps.json
+C:\Completo-Repositorio\completoOne\AccesoDatos\bin\Debug\net6.0\AccesoDatos.dll
+C:\Completo-Repositorio\completoOne\AccesoDatos\bin\Debug\net6.0\AccesoDatos.pdb
+C:\Completo-Repositorio\completoOne\AccesoDatos\bin\Debug\net6.0\Modelos.dll
+C:\Completo-Repositorio\completoOne\AccesoDatos\bin\Debug\net6.0\Utilidades.dll
+C:\Completo-Repositorio\completoOne\AccesoDatos\bin\Debug\net6.0\Modelos.pdb
+C:\Completo-Repositorio\completoOne\AccesoDatos\bin\Debug\net6.0\Utilidades.pdb
+C:\Completo-Repositorio\completoOne\AccesoDatos\obj\Debug\net6.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Completo-Repositorio\completoOne\AccesoDatos\obj\Debug\net6.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Completo-Repositorio\completoOne\AccesoDatos\obj\Debug\net6.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Completo-Repositorio\completoOne\AccesoDatos\obj\Debug\net6.0\AccesoDatos.AssemblyInfo.cs
+C:\Completo-Repositorio\completoOne\AccesoDatos\obj\Debug\net6.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Completo-Repositorio\completoOne\AccesoDatos\obj\Debug\net6.0\AccesoDatos.csproj.CopyComplete
+C:\Completo-Repositorio\completoOne\AccesoDatos\obj\Debug\net6.0\AccesoDatos.dll
+C:\Completo-Repositorio\completoOne\AccesoDatos\obj\Debug\net6.0\refint\AccesoDatos.dll
+C:\Completo-Repositorio\completoOne\AccesoDatos\obj\Debug\net6.0\AccesoDatos.pdb
+C:\Completo-Repositorio\completoOne\AccesoDatos\obj\Debug\net6.0\ref\AccesoDatos.dll

@@ -1,0 +1,12 @@
+C:\Completo-Repositorio\completoOne\Modelos\bin\Debug\net6.0\Modelos.deps.json
+C:\Completo-Repositorio\completoOne\Modelos\bin\Debug\net6.0\Modelos.dll
+C:\Completo-Repositorio\completoOne\Modelos\bin\Debug\net6.0\Modelos.pdb
+C:\Completo-Repositorio\completoOne\Modelos\obj\Debug\net6.0\Modelos.csproj.AssemblyReference.cache
+C:\Completo-Repositorio\completoOne\Modelos\obj\Debug\net6.0\Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Completo-Repositorio\completoOne\Modelos\obj\Debug\net6.0\Modelos.AssemblyInfoInputs.cache
+C:\Completo-Repositorio\completoOne\Modelos\obj\Debug\net6.0\Modelos.AssemblyInfo.cs
+C:\Completo-Repositorio\completoOne\Modelos\obj\Debug\net6.0\Modelos.csproj.CoreCompileInputs.cache
+C:\Completo-Repositorio\completoOne\Modelos\obj\Debug\net6.0\Modelos.dll
+C:\Completo-Repositorio\completoOne\Modelos\obj\Debug\net6.0\refint\Modelos.dll
+C:\Completo-Repositorio\completoOne\Modelos\obj\Debug\net6.0\Modelos.pdb
+C:\Completo-Repositorio\completoOne\Modelos\obj\Debug\net6.0\ref\Modelos.dll

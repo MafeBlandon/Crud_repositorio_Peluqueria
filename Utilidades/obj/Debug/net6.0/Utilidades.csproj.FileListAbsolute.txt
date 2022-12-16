@@ -1,0 +1,12 @@
+C:\Completo-Repositorio\completoOne\Utilidades\bin\Debug\net6.0\Utilidades.deps.json
+C:\Completo-Repositorio\completoOne\Utilidades\bin\Debug\net6.0\Utilidades.dll
+C:\Completo-Repositorio\completoOne\Utilidades\bin\Debug\net6.0\Utilidades.pdb
+C:\Completo-Repositorio\completoOne\Utilidades\obj\Debug\net6.0\Utilidades.csproj.AssemblyReference.cache
+C:\Completo-Repositorio\completoOne\Utilidades\obj\Debug\net6.0\Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Completo-Repositorio\completoOne\Utilidades\obj\Debug\net6.0\Utilidades.AssemblyInfoInputs.cache
+C:\Completo-Repositorio\completoOne\Utilidades\obj\Debug\net6.0\Utilidades.AssemblyInfo.cs
+C:\Completo-Repositorio\completoOne\Utilidades\obj\Debug\net6.0\Utilidades.csproj.CoreCompileInputs.cache
+C:\Completo-Repositorio\completoOne\Utilidades\obj\Debug\net6.0\Utilidades.dll
+C:\Completo-Repositorio\completoOne\Utilidades\obj\Debug\net6.0\refint\Utilidades.dll
+C:\Completo-Repositorio\completoOne\Utilidades\obj\Debug\net6.0\Utilidades.pdb
+C:\Completo-Repositorio\completoOne\Utilidades\obj\Debug\net6.0\ref\Utilidades.dll
